@@ -1,0 +1,5 @@
+Nume: test
+Tip: int
+Nr_Parametri: 1
+Tip_Parametri: int 
+

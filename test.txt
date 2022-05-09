@@ -1,0 +1,25 @@
+int test(int y);
+float b=5.6;
+float c=4.6;
+int a =2;
+string s = "test";
+string s2 = "t";
+int main()
+{   
+
+
+strcpy(s2,s);
+
+if(a == 2)
+{
+a=2+6*7+a;
+}
+
+print("buna",a);
+return 0;
+}
+
+int test (int y)
+{
+return 1 ;
+}

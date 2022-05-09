@@ -1,0 +1,20 @@
+Nume: a
+Tip: int
+a = 2
+
+Nume: b
+Tip: float
+b = 5.600000
+
+Nume: c
+Tip: float
+c = 4.600000
+
+Nume: s
+Tip: string
+s = "test"
+
+Nume: s2
+Tip: string
+s2 = "test"
+
